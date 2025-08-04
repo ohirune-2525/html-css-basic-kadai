@@ -1,0 +1,24 @@
+body{
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+html{
+    font-size: 20px;
+}
+.blue{
+    color:skyblue;
+}
+.pink{
+    color:rgb(255, 192, 203);
+}
+.h1-decoration{
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 1px gray;
+    /*課題のフィードバックより更新*/
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+.basic_child{
+    font-weight: bold;
+}
